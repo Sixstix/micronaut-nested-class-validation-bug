@@ -1,4 +1,4 @@
 ## Feature http-client documentation
 
-- [Micronaut Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+In order to check the behaviour, just call localhost:8080/test with body { "someNestedDto": {} }
 
